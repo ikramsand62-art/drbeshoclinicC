@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "First release",
+  "pub_date": "2026-05-23T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN0lrTFY5MlBVL2hRcDdhMTBIYzE5VFRESU93QTI1UHg2NExZREpyREZiWGNQMHdtT0x5bnNvY3VYaFRNdmJCNGhoNGpoRENZamhueDN2aTUwTm1WWEJwcGs5NUNsUHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTU0MzY3CWZpbGU6RHIgQmVzaG8gQ2xpbmljXzAuMS4xX3g2NC1zZXR1cC5leGUKazlXTnZVNlgxWHpZUnlsMk1QMHBYdDlnTzVQREVoSGxyV045ZXovYkpnK1hMTTgxWE9ISFFVc3hsaUdtejhaeTZMTGk3ekJYWWFIZ3JscDNXTWMzQXc9PQo=",
+      "url": "https://github.com/ikramsand62-art/drbeshoclinic/releases/download/v0.1.1/DrBeshoClinic_0.1.1_x64-setup.exe"
+    }
+  }
+}
